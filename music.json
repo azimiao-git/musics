@@ -1,0 +1,42 @@
+{
+  "lrcType": 3,
+  "listFolded":false,
+  "listMaxHeight": "100px",
+  "audio": [
+    {
+      "name": "LOSER",
+      "artist": "米津玄師",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/mp3/LOSER.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/cover/LOSER.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/lrc/LOSER - 米津玄師.lrc"
+    },
+    {
+      "name": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/mp3/なんでもないや (movie ver.).mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/cover/RADWIMPS.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/lrc/なんでもないや (movie ver.) - RADWIMPS.lrc"
+    },
+    {
+      "name": "前前前世 (movie ver.)",
+      "artist": "RADWIMPS",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/mp3/前前前世 (movie ver.).mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/cover/RADWIMPS.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/lrc/前前前世 (movie ver.) - RADWIMPS.lrc"
+    },
+    {
+      "name": "夢灯籠",
+      "artist": "ADWIMPS",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/mp3/夢灯籠.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/cover/RADWIMPS.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/lrc/夢灯籠 - RADWIMPS.lrc"
+    },
+    {
+      "name": "Lemon",
+      "artist": "津玄師",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/mp3/Lemon.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/cover/Lemon.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/Anime-image/musics/music/lrc/Lemon - 米津玄師.lrc"
+    }
+  ]
+}
