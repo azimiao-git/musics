@@ -33,10 +33,45 @@
     },
     {
       "name": "Lemon",
-      "artist": "津玄師",
+      "artist": "米津玄師",
       "url": "https://cdn.jsdelivr.net/gh/azumiao/musics/mp3/Lemon.mp3",
       "cover": "https://cdn.jsdelivr.net/gh/azumiao/musics/cover/Lemon.jpg",
       "lrc": "https://cdn.jsdelivr.net/gh/azumiao/musics/lrc/Lemon - 米津玄師.lrc"
+    },
+	{
+      "name": "灰色と青",
+      "artist": "米津玄師",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/musics/mp3/灰色と青.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/musics/cover/Lemon.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/musics/lrc/灰色と青 - 米津玄師.lrc"
+    },
+	{
+      "name": "いつも何度でも",
+      "artist": "木村弓",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/musics/mp3/いつも何度でも.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/musics/cover/いつも何度でも.jpg",
+      "lrc": ""
+    },
+	{
+      "name": "鸟之诗 (八音盒版)",
+      "artist": "V.A",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/musics/mp3/鸟之诗 (八音盒版).mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/musics/cover/鸟之诗.jpg",
+      "lrc": ""
+    },
+	{
+      "name": "Prover",
+      "artist": "milet",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/musics/mp3/Prover.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/musics/cover/Prover.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/musics/lrc/Prover - milet.lrc"
+    },
+	{
+      "name": "Hello,world!",
+      "artist": "BUMP OF CHICKEN",
+      "url": "https://cdn.jsdelivr.net/gh/azumiao/musics/mp3/Hello,world!.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azumiao/musics/cover/Hello,world!.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azumiao/musics/lrc/Hello,world! - BUMP OF CHICKEN.lrc"
     }
   ]
 }
