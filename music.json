@@ -72,6 +72,34 @@
       "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/Hello,world!.mp3",
       "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/Hello,world!.jpg",
       "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/Hello,world! - BUMP OF CHICKEN.lrc"
+    },
+    {
+      "name": "Rubia",
+      "artist": "周深",
+      "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/周深-Rubia.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/周深-Rubia.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/Rubia-周深.lrc"
+    },
+    {
+      "name": "ハグ_-アイロニ",
+      "artist": "H△G",
+      "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/H△G-_ハグ_-アイロニ-_反语.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/H△G-_ハグ_-アイロニ-_反语.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/アイロニ - H△G.lrc"
+    },
+    {
+      "name": "光るなら",
+      "artist": "Goose-house",
+      "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/Goose-house-光るなら.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/Goose-house-光るなら.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/光るなら - Goose house.lrc"
+    },
+    {
+      "name": "Daisy",
+      "artist": "STEREO-DIVE-FOUNDATION",
+      "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/Daisy-STEREO-DIVE-FOUNDATION.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/Daisy-STEREO-DIVE-FOUNDATION.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/Daisy-STEREO-DIVE-FOUNDATION.lrc"
     }
   ]
 }
