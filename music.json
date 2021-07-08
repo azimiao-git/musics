@@ -100,6 +100,13 @@
       "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/Daisy-STEREO-DIVE-FOUNDATION.mp3",
       "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/Daisy-STEREO-DIVE-FOUNDATION.jpg",
       "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/Daisy-STEREO-DIVE-FOUNDATION.lrc"
+    },
+    {
+      "name": "もう少しだけ",
+      "artist": "YOASOBI",
+      "url": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/mp3/もう少しだけ-YOASOBI.mp3",
+      "cover": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/cover/もう少しだけ-YOASOBI.jpg",
+      "lrc": "https://cdn.jsdelivr.net/gh/azimiao-git/musics/lrc/もう少しだけ - YOASOBI.lrc"
     }
   ]
 }
